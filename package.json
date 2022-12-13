@@ -1,0 +1,14 @@
+{
+  "name": "yarn-link-example",
+  "version": "1.0.0",
+  "description": "sample yarn package",
+  "main": "index.js",
+  "author": "Josh Soref <2119212+jsoref@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node ./index.js"
+  },
+  "dependencies": {
+    "smallest": "^1.0.1"
+  }
+}
